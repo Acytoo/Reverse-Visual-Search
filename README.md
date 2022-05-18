@@ -9,3 +9,5 @@
 </center>
 
 #### Explanation: [acytoo.com/ladder/reverse-visual-search/](https://acytoo.com/ladder/reverse-visual-search/)
+
+[Open in Google Colab](https://colab.research.google.com/github/Acytoo/Reverse-Visual-Search/blob/main/Reverse_Visual_Search.ipynb)
